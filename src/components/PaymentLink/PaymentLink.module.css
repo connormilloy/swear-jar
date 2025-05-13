@@ -1,0 +1,20 @@
+.PaymentLink {
+    animation: fadeInUp 1s ease-out forwards;
+    margin-top: 50px;
+}
+
+.PaypalLogo {
+    width: 200px;
+    height: auto;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

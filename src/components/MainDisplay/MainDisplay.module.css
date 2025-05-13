@@ -1,0 +1,12 @@
+.MainDisplay {
+    margin: 0 auto;
+}
+
+.Payment {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

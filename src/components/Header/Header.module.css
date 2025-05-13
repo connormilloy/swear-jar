@@ -1,0 +1,12 @@
+.Header {
+    width: 100%;
+    text-align: center;
+}
+
+.Title {
+    font-family: 'Arial', sans-serif;
+    font-size: 3rem;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 3px #00f, 0 0 5px #00f, 0 0 7px #ff00cc, 0 0 10px #ff00cc;
+}
