@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/swear-jar/static/css/main.74237ca2.css",
+    "main.js": "/swear-jar/static/js/main.ff71589a.js",
+    "static/media/paypal-logo.png": "/swear-jar/static/media/paypal-logo.04b3edb65b438fe60d98.png",
+    "index.html": "/swear-jar/index.html",
+    "main.74237ca2.css.map": "/swear-jar/static/css/main.74237ca2.css.map",
+    "main.ff71589a.js.map": "/swear-jar/static/js/main.ff71589a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74237ca2.css",
+    "static/js/main.ff71589a.js"
+  ]
+}
